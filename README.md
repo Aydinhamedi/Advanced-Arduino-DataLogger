@@ -55,4 +55,4 @@ Contributions are welcome. Please open an issue or submit a pull request.
 
 ## License
 
-### This project is licensed under the [MIT License](LICENSE).
+### This project is licensed under the [GNU General Public License v3.0 License](LICENSE).
