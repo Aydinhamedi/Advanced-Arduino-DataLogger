@@ -13,6 +13,13 @@ This project is an advanced datalogger that logs temperature, humidity, and air 
   
 ### and more... take a look at the code `Datalogger.ino`
 
+### TFT screen style ↓
+
+![style](1696436059032.jpg)
+
+>  **Note**\
+>  Please note that the data and time in the img is not set correctly.
+> 
 ## Hardware Requirements
 
 - Arduino board (Mega 2560 recommend)
